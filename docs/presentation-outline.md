@@ -20,7 +20,7 @@
     - Easily & Securely record calls
     - "Cloud" availability & distributed hotline
 ## Core Needs: Anywhere, Anytime
-  -
+  - 
 ## Core Needs: Scale up and down
   - High availability when the actions are happening
     - Support potentially hundreds of users at the same time
