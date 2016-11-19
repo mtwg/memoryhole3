@@ -17,7 +17,7 @@
   - Hotline calls are not always arrestees - more nuanced ways to manage intake of this information (thus tracking 'people' and 'incidents' rather than just always 'arrestees')
   - Will likely be logging conversations and updating information against the same profile concurrently
   - Often are tasked with making outbound calls to gather and disseminate information to family members, support network, friends, and to jail support folks on the ground.
-  - Ideally, the application can support anyone as
+  - Ideally, the application can allow anyone anywhere in the country/world to work the hotlines. The need for hotline workers can scale dramatically.
   
 ## User Personas: Trained Legal Observers
   - Upload evidence from the field
