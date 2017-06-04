@@ -4,8 +4,7 @@
   "description": "A mobile-friendly web application for supporting social movement legal defense",
   "main": "index.js",
   "scripts": {
-    "setup": "gitbook fetch",
-    "build": "npm run setup && gitbook build . docs",
+    "build": "gitbook build . docs",
     "serve": "gitbook serve .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
