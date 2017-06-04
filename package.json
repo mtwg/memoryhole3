@@ -1,0 +1,25 @@
+{
+  "name": "memoryhole-3",
+  "version": "1.0.0",
+  "description": "A mobile-friendly web application for supporting social movement legal defense",
+  "main": "index.js",
+  "scripts": {
+    "setup": "gitbook fetch",
+    "build": "npm run setup && gitbook build . docs",
+    "serve": "gitbook serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtwg/memoryhole3.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mtwg/memoryhole3/issues"
+  },
+  "homepage": "https://github.com/mtwg/memoryhole3#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.0"
+  }
+}

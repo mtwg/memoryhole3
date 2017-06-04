@@ -1,0 +1,7 @@
+- [The Hub Model (Introduction)](the-hub.md)
+- [Desired Features](desired-features.md)
+- Dreams (non-MVP features - in order of priority)
+  - [Secure Drop-Esque Files](dreams/secure-drop-files.md)
+  - [Realtime Notifications](dreams/realtime-notifications.md)
+  - [VOIP/Browser Phone/Hotline](dreams/voip-system.md)
+- [Data Model Example](data-model.md)
